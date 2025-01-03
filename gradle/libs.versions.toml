@@ -19,7 +19,7 @@ junit = "5.11.4"
 errorprone-gradle = "4.1.0"
 errorprone-core = "2.36.0"
 nullaway = "0.12.2"
-checker-qual = "3.48.3"
+checker-qual = "3.48.4"
 
 [libraries]
 # utilities
