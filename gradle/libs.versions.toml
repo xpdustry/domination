@@ -13,7 +13,7 @@ filestore = "2.1.0"
 cloud-core = "2.0.0"
 
 # testing
-junit = "5.11.4"
+junit = "5.13.1"
 
 # static analysis
 errorprone-gradle = "4.1.0"
