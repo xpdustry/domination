@@ -16,7 +16,7 @@ cloud-core = "2.0.0"
 junit = "5.11.4"
 
 # static analysis
-errorprone-gradle = "4.1.0"
+errorprone-gradle = "4.3.0"
 errorprone-core = "2.36.0"
 nullaway = "0.12.2"
 checker-qual = "3.48.3"
