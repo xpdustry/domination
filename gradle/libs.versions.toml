@@ -8,7 +8,7 @@ shadow = "8.3.5"
 # utilities
 slf4md = "1.0.1"
 distributor = "4.1.0"
-gson = "2.11.0"
+gson = "2.14.0"
 filestore = "2.1.0"
 cloud-core = "2.0.0"
 
