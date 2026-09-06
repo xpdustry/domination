@@ -18,7 +18,7 @@ junit = "5.11.4"
 # static analysis
 errorprone-gradle = "4.1.0"
 errorprone-core = "2.36.0"
-nullaway = "0.12.2"
+nullaway = "0.14.1"
 checker-qual = "3.48.3"
 
 [libraries]
